@@ -12,9 +12,12 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="homePet.cpp">
+      <Filter>abstract</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="abstract.h">
+    <ClInclude Include="homePet.h">
       <Filter>abstract</Filter>
     </ClInclude>
   </ItemGroup>
