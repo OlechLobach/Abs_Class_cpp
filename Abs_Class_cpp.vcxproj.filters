@@ -14,7 +14,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="abstract.h">
+    <ClInclude Include="shape.h">
       <Filter>abstract</Filter>
     </ClInclude>
   </ItemGroup>
